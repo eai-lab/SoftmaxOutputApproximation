@@ -40,12 +40,15 @@ attention = softmax_approximation.apply(energy, mask)
 ## Citation (BibTeX)
 **[ Softmax Output Approximation for Activation Memory-Efficient Training of Attention-based Networks]**
 ```
-@inproceedings{
-lee2023softmax,
-title={Softmax Output Approximation for Activation Memory-Efficient Training of Attention-based Networks},
-author={Changhyeon Lee and Seulki Lee},
-booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
-year={2023},
-url={https://openreview.net/forum?id=oScaeIibRx}
+@inproceedings{NEURIPS2023_31125742,
+ author = {Lee, Changhyeon and Lee, Seulki},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Oh and T. Naumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},
+ pages = {15108--15120},
+ publisher = {Curran Associates, Inc.},
+ title = {Softmax Output Approximation for Activation Memory-Efficient Training of Attention-based Networks},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/311257424b6d80e930fc93b224f0a63e-Paper-Conference.pdf},
+ volume = {36},
+ year = {2023}
 }
 ```
