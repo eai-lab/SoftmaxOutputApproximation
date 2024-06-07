@@ -3,7 +3,7 @@
 * Under refactoring.
 
 ## Introduction
-This Git repository provides the ***Softmax output approximation function***, which is an open-source code of [NeurIPS 2023](https://nips.cc/Conference/2023) paper titled "***Softmax Output Approximation for Activation Memory-Efficient Training of Attention-based Networks***".
+This Git repository provides the ***Softmax output approximation function***, which is an open-source code of [NeurIPS 2023](https://neurips.cc/Conferences/2023) paper titled "***Softmax Output Approximation for Activation Memory-Efficient Training of Attention-based Networks***".
 
 This repository provides the proposed ***softmax output approximation function*** in Python/Pytorch, and demonstrates an example of a machine translation task using the Transformer and Multi30k dataset, as experimented in the paper.
 
